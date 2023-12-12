@@ -1,3 +1,3 @@
 # MonashTask1
-Install Python
-Run Using an IDE or in Command Prompt/Terminal
+<p>1. Install Python<br>
+2. Run Using an IDE or in Command Prompt/Terminal</p>
