@@ -1,3 +1,6 @@
 # MonashTask1
-<p>1. Install Python<br>
-2. Run Using an IDE or in Command Prompt/Terminal</p>
+<p>A program that combines a list of integers into a single integer</p>
+<ol>
+  <li>Install Python</li>
+  <li>View code using an IDE or on github</li>
+</ol>
