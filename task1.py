@@ -30,7 +30,7 @@ def find_integer(lst):
     for number in lst:
         result += str(number)
  
-    #returns result as an integer, if there is an error, return None
+    #returns result as an integer, if there is a value error, return None
     try:
         return int(result) 
     except ValueError:
